@@ -3,7 +3,7 @@ module.exports = {
         token: "",
         prefix: "-",
         owners: [""],
-        mongourl: "MONGODB URL" //https://mongodb.com/cloud/atlas/register
+        mongourl: "MONGODB URL"
     },
 
     website: {
